@@ -1,0 +1,4 @@
+S01|Hành Trình Của Moana 2|Phòng 2|20/12/2024|21:00|Đang chiếu
+S02|Deadpool và Wolverine|Phòng 1|20/12/2024|20:00|Đang chiếu
+S03|Venom: Kèo Cuối|Phòng 3|21/12/2024|03:00|Đang chiếu
+S05|Venom: Kèo Cuối|Phòng 2|21/12/2024|16:00|Đã chiếu

@@ -1,0 +1,4 @@
+NV01 | Nguyễn Văn Tèo | 04/12/2004 | Nam | ntiendung04@gmail.com | 0779122845 | Nhân Viên | 123.
+Admin1 | Nguyễn Tiến Dũng | 04/05/2004 | Nam | ntiendung04@gmail.com | 0779122845 | Admin | 123.
+Admin2 | Nguyễn Đình Dũng | 04/05/2004 | Nam | ntiendung04@gmail.com | 0123456789 | Admin | 123.
+NV02 | Lê Thị | 21/12/2024 | Nữ | hihi@gmail.com | 0987654321 | Nhân Viên | 123.

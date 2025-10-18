@@ -1,0 +1,3 @@
+R01 | Phòng 1 | Rạp Thường | Đóng.
+R02 | Phòng 2 | Rạp 3D | Mở.
+R03 | Phòng 3 | Rạp VIP | Đóng.
